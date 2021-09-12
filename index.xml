@@ -6,16 +6,7 @@
     <description>Recent content on Jacques Dupuis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Sep 2021 14:46:13 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second Post</title>
-      <link>/posts/second-post/</link>
-      <pubDate>Sat, 11 Sep 2021 14:46:13 -0400</pubDate>
-      
-      <guid>/posts/second-post/</guid>
-      <description>Coming soon again!</description>
-    </item>
-    
+    <lastBuildDate>Fri, 10 Sep 2021 14:46:13 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -40,15 +31,6 @@
       <pubDate>Fri, 10 Sep 2021 14:46:13 -0400</pubDate>
       
       <guid>/posts/first-post/</guid>
-      <description>Coming soon!</description>
-    </item>
-    
-    <item>
-      <title>Coming soon!</title>
-      <link>/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/</guid>
       <description>Coming soon!</description>
     </item>
     
