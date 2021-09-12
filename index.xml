@@ -6,7 +6,16 @@
     <description>Recent content on Jacques Dupuis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Sep 2021 14:46:13 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 14:46:13 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>/posts/second-post/</link>
+      <pubDate>Sat, 11 Sep 2021 14:46:13 -0400</pubDate>
+      
+      <guid>/posts/second-post/</guid>
+      <description>Coming soon again!</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -18,10 +27,10 @@
     
     <item>
       <title>CV</title>
-      <link>/cv/cv/</link>
+      <link>/cv/</link>
       <pubDate>Fri, 10 Sep 2021 14:46:13 -0400</pubDate>
       
-      <guid>/cv/cv/</guid>
+      <guid>/cv/</guid>
       <description>You can download a PDF copy of my CV here.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2021-09-11T14:46:13-04:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-09-11T14:46:13-04:00</lastmod>
+  </url><url>
+    <loc>/posts/second-post/</loc>
+    <lastmod>2021-09-11T14:46:13-04:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2021-09-10T14:46:21-04:00</lastmod>
-  </url><url>
-    <loc>/cv/cv/</loc>
-    <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
     <loc>/cv/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
     <loc>/posts/first-post/</loc>
-    <lastmod>2021-09-10T14:46:13-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-09-10T14:46:13-04:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
