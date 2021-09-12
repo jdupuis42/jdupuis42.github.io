@@ -5,10 +5,10 @@
     <loc>/about/</loc>
     <lastmod>2021-09-10T14:46:21-04:00</lastmod>
   </url><url>
-    <loc>/cv/</loc>
+    <loc>/posts/first-post/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
-    <loc>/posts/first-post/</loc>
+    <loc>/cv/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -18,6 +18,8 @@
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/projects/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
