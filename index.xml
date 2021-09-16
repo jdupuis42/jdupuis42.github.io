@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacques Dupuis</title>
-    <link>/</link>
+    <link>jacquesdupuis.com/</link>
     <description>Recent content on Jacques Dupuis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Sep 2021 14:46:13 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 14:46:13 -0400</lastBuildDate><atom:link href="jacquesdupuis.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming soon!</title>
-      <link>/posts/first-post/</link>
+      <link>jacquesdupuis.com/posts/first-post/</link>
       <pubDate>Fri, 10 Sep 2021 14:46:13 -0400</pubDate>
       
-      <guid>/posts/first-post/</guid>
+      <guid>jacquesdupuis.com/posts/first-post/</guid>
       <description>Coming soon!</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>/cv/</link>
+      <link>jacquesdupuis.com/cv/</link>
       <pubDate>Fri, 10 Sep 2021 14:46:13 -0400</pubDate>
       
-      <guid>/cv/</guid>
+      <guid>jacquesdupuis.com/cv/</guid>
       <description>You can download a PDF copy of my CV here.</description>
     </item>
     
     <item>
       <title>(Who Isn&#39;t) On the Radio</title>
-      <link>/who-isnt-on-the-radio/</link>
+      <link>jacquesdupuis.com/who-isnt-on-the-radio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/who-isnt-on-the-radio/</guid>
+      <guid>jacquesdupuis.com/who-isnt-on-the-radio/</guid>
       <description>Before continuing, note that the following is based on data collected in 2019 and may not be an accurate picture of the current state of classical radio programming at these stations today in 2021. We are currently working on updating this project to reflect current/recent statistics. Introduction This project began with a fairly straightforward question: How does programming on American classical radio break down along gender lines for composers heard over the airwaves?</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>jacquesdupuis.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>jacquesdupuis.com/about/</guid>
       <description>Thanks for stopping by. I&amp;rsquo;m a musicologist and (mostly amateur) musician currently living in the Boston area.
 My research focuses on music, history and aesthetics in German-speaking lands and the United States during the long(est) 19th century. I&amp;rsquo;m especially interested in ways that cultural hierarchies interact in, and across, various repertoires. Among other topics, I have researched and written on:
  late 18th-century popular theater and its influence on chamber and concert music during the 19th century mutual influences between spoken theater and music ways music contributed to aesthetics around revolution in the first half of the 19th century in Europe how music streaming service users form virtual communities (link) how individuals form and express artistic identities, focused on Sophie Schröder structures of commendation and honor for 19th-century German musicians, focused on Clara Schumann gender representation in US-ian classical music radio programming (an ongoing collaborative project with my wife, Kathryn, which will soon be publicly hosted on this website) middlebrow culture, American opera, and Cold War-era middle-class anxieties  Links to representative work in these areas will be posted on this site soon.</description>
@@ -47,10 +47,10 @@ My research focuses on music, history and aesthetics in German-speaking lands an
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>jacquesdupuis.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>jacquesdupuis.com/projects/</guid>
       <description>Coming soon!</description>
     </item>
     
