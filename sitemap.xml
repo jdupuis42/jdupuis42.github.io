@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>jacquesdupuis.com/posts/first-post/</loc>
+    <loc>/posts/first-post/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
-    <loc>jacquesdupuis.com/cv/</loc>
+    <loc>/cv/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
-    <loc>jacquesdupuis.com/</loc>
+    <loc>/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
-    <loc>jacquesdupuis.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-09-10T14:46:13-04:00</lastmod>
   </url><url>
-    <loc>jacquesdupuis.com/who-isnt-on-the-radio/</loc>
+    <loc>/who-isnt-on-the-radio/</loc>
   </url><url>
-    <loc>jacquesdupuis.com/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>jacquesdupuis.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>jacquesdupuis.com/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>jacquesdupuis.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
