@@ -5,7 +5,7 @@ html, body {
 body {
     padding-top: 55px;
     display: flex;
-    text-align: start;
+    text-align: center;
     flex-direction: column;
 }
 
@@ -17,7 +17,7 @@ main {
 }
 
 img {
-    max-width: 500px;
+    max-width: 100%;
 }
 
 /* Homepage */
