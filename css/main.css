@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    margin: auto;
+    margin: 10px 0;
     padding-top: 55px;
     display: flex;
     text-align: start;
