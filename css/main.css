@@ -73,7 +73,7 @@ a:hover {
 /* Paginator */
 
 .pages {
-    padding: 15px;
+    padding: 15px 0;
 }
 
 .pages-icon {
