@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/cv/</loc>
-    <lastmod>2022-03-20T14:46:13-04:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2022-01-07T13:46:13-04:00</lastmod>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-01-07T13:46:13-04:00</lastmod>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/schumann-lehmann/</loc>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/cv/</loc>
+    <lastmod>2022-03-20T14:46:13-04:00</lastmod>
   </url><url>
     <loc>/posts/catch-me-diegesis/</loc>
     <lastmod>2022-01-07T13:46:13-04:00</lastmod>
